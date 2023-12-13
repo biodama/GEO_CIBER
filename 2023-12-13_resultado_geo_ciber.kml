@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<name></name>
+<description><![CDATA[]]></description>
+
+<Style id="style1">
+  <IconStyle>
+    <Icon>
+      <href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+
+<Placemark>
+  <name>101310022153</name>
+  <description><![CDATA[<b>ID:</b>101310022153<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>GENERAL PRIM<br><b>NUM:</b>16<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54388882480936,39.8925719951015
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310126019</name>
+  <description><![CDATA[<b>ID:</b>101310126019<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>GRAVINA<br><b>NUM:</b>27<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53686783828005,39.8918143315662
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310242613</name>
+  <description><![CDATA[<b>ID:</b>101310242613<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>ALFOLI<br><b>NUM:</b>17<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54192667587535,39.8909887215523
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310001579</name>
+  <description><![CDATA[<b>ID:</b>101310001579<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>HIEDRA<br><b>NUM:</b>8<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54102624676381,39.8930986398904
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310001839</name>
+  <description><![CDATA[<b>ID:</b>101310001839<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>RIO MI<U+00D1>O<br><b>NUM:</b>6<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.5411978212224,39.8894674814392
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310003991</name>
+  <description><![CDATA[<b>ID:</b>101310003991<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>JUAN RAMON JIMENEZ<br><b>NUM:</b>6<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53914153395459,39.895377002147
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310021285</name>
+  <description><![CDATA[<b>ID:</b>101310021285<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>TRAVESIA<br><b>DIRECCION:</b>WEYLER<br><b>NUM:</b>1<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54307238967897,39.8929867453421
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310084231</name>
+  <description><![CDATA[<b>ID:</b>101310084231<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>SERREJON<br><b>NUM:</b>2<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53758105012531,39.8963546416534
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310099116</name>
+  <description><![CDATA[<b>ID:</b>101310099116<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>LEPANTO<br><b>NUM:</b>15<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53990495944629,39.8923809620118
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310129908</name>
+  <description><![CDATA[<b>ID:</b>101310129908<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>AZAHAR<br><b>NUM:</b>2<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53633487755252,39.8906690818127
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310176099</name>
+  <description><![CDATA[<b>ID:</b>101310176099<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>GRAVINA<br><b>NUM:</b>19<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53716226912337,39.8918080632915
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310251671</name>
+  <description><![CDATA[<b>ID:</b>101310251671<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>REPUBLICA ARGENTINA<br><b>NUM:</b>2<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54315972374224,39.8899400760737
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310251673</name>
+  <description><![CDATA[<b>ID:</b>101310251673<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>REPUBLICA ARGENTINA<br><b>NUM:</b>6<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54330206124109,39.8899727853158
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310251916</name>
+  <description><![CDATA[<b>ID:</b>101310251916<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>PUERTO MIJARES<br><b>NUM:</b>7<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53405712953287,39.8876640556517
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310252371</name>
+  <description><![CDATA[<b>ID:</b>101310252371<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>MODESTO MARCOS<br><b>NUM:</b>1<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54240381478417,39.8918776330464
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310252372</name>
+  <description><![CDATA[<b>ID:</b>101310252372<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>MODESTO MARCOS<br><b>NUM:</b>16<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.5429931162393,39.8918942839941
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310252563</name>
+  <description><![CDATA[<b>ID:</b>101310252563<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>LEPANTO<br><b>NUM:</b>5<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54005932267955,39.8923000338195
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310252565</name>
+  <description><![CDATA[<b>ID:</b>101310252565<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>ARAPILES<br><b>NUM:</b>2<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53993936570913,39.8916640422618
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310252694</name>
+  <description><![CDATA[<b>ID:</b>101310252694<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>NARCISO<br><b>NUM:</b>2<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53900659877547,39.8915161055838
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310198705</name>
+  <description><![CDATA[<b>ID:</b>101310198705<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>CONDE MIRANDA<br><b>NUM:</b>19<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53588942445731,39.8911387437581
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310203611</name>
+  <description><![CDATA[<b>ID:</b>101310203611<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>GENERAL MARTIN CEREZO<br><b>NUM:</b>5<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53583091636364,39.8913218358341
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310230351</name>
+  <description><![CDATA[<b>ID:</b>101310230351<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>LOPEZ DE AYALA<br><b>NUM:</b>1<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53603911930986,39.8925787445135
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310234502</name>
+  <description><![CDATA[<b>ID:</b>101310234502<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>CARDENAL CISNEROS<br><b>NUM:</b>32<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53877534080931,39.8919012438474
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310086268</name>
+  <description><![CDATA[<b>ID:</b>101310086268<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>CASTELAR<br><b>NUM:</b>21<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.5434347328266,39.8925739376372
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310002086</name>
+  <description><![CDATA[<b>ID:</b>101310002086<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>AGUSTIN CARRE<U+00D1>O<br><b>NUM:</b>8<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54555784242046,39.8928486535426
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310006267</name>
+  <description><![CDATA[<b>ID:</b>101310006267<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>TRAVESIA<br><b>DIRECCION:</b>MURILLO<br><b>NUM:</b>5<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53635000594795,39.891842233932
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310027572</name>
+  <description><![CDATA[<b>ID:</b>101310027572<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>FUNDACION CONCHA<br><b>NUM:</b>23<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53915093906454,39.8913540225701
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310041596</name>
+  <description><![CDATA[<b>ID:</b>101310041596<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>FUENTE LA CUEVA<br><b>NUM:</b>4<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.52516509449345,39.8892759087562
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310045656</name>
+  <description><![CDATA[<b>ID:</b>101310045656<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>JOVELLANOS<br><b>NUM:</b>38<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53956373777623,39.8944448026855
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310056402</name>
+  <description><![CDATA[<b>ID:</b>101310056402<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>CALVO SOTELO<br><b>NUM:</b>49<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54078569970022,39.8933360123472
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310062742</name>
+  <description><![CDATA[<b>ID:</b>101310062742<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>ISABEL LA CATOLICA<br><b>NUM:</b>67<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54065805982157,39.8948934528706
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310065133</name>
+  <description><![CDATA[<b>ID:</b>101310065133<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>ELOY GONZALO<br><b>NUM:</b>7<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.5360645269563,39.892829232683
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310068481</name>
+  <description><![CDATA[<b>ID:</b>101310068481<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>CALVO SOTELO<br><b>NUM:</b>30<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54099332078511,39.8937077435176
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310068961</name>
+  <description><![CDATA[<b>ID:</b>101310068961<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>PABLO LUENGO<br><b>NUM:</b>16<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54168672236432,39.8922989690222
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310072221</name>
+  <description><![CDATA[<b>ID:</b>101310072221<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>JOVELLANOS<br><b>NUM:</b>9<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53957434887707,39.8930140217797
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310104396</name>
+  <description><![CDATA[<b>ID:</b>101310104396<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>GARCIA MORATO<br><b>NUM:</b>7<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54336354609075,39.8910875462533
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310141309</name>
+  <description><![CDATA[<b>ID:</b>101310141309<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>CALVO SOTELO<br><b>NUM:</b>34<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.5412597242568,39.8939985258114
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310156071</name>
+  <description><![CDATA[<b>ID:</b>101310156071<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>EL CASTUO<br><b>NUM:</b>12<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54333163544658,39.8901448535022
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310158144</name>
+  <description><![CDATA[<b>ID:</b>101310158144<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>CALVO SOTELO<br><b>NUM:</b>34<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.5412597242568,39.8939985258114
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310177293</name>
+  <description><![CDATA[<b>ID:</b>101310177293<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>CAMILO JOSE CELA<br><b>NUM:</b>4<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53080766584105,39.8912924936537
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310181733</name>
+  <description><![CDATA[<b>ID:</b>101310181733<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>CARLOS V<br><b>NUM:</b>11<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53994532731497,39.8926218912873
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310251600</name>
+  <description><![CDATA[<b>ID:</b>101310251600<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>JOAQUIN COSTA<br><b>NUM:</b>8<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54129102426134,39.8906135765554
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310252234</name>
+  <description><![CDATA[<b>ID:</b>101310252234<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>CALVO SOTELO<br><b>NUM:</b>53<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54143104600593,39.8940153494289
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310252289</name>
+  <description><![CDATA[<b>ID:</b>101310252289<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>ISABEL LA CATOLICA<br><b>NUM:</b>14<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54042456973804,39.8936865294099
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310252521</name>
+  <description><![CDATA[<b>ID:</b>101310252521<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>PABLO LUENGO<br><b>NUM:</b>36<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54247476499836,39.89460066329
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310252841</name>
+  <description><![CDATA[<b>ID:</b>101310252841<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>ELOY GONZALO<br><b>NUM:</b>9<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53602249084526,39.89283175708
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310252931</name>
+  <description><![CDATA[<b>ID:</b>101310252931<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>FUENTE NUEVA<br><b>NUM:</b>2<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.52661520362869,39.8908095541177
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310252932</name>
+  <description><![CDATA[<b>ID:</b>101310252932<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>FUENTE NUEVA<br><b>NUM:</b>1<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.52635721331467,39.8907209780907
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310188117</name>
+  <description><![CDATA[<b>ID:</b>101310188117<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>SANTIAGO MUGUIRO<br><b>NUM:</b>4<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54378953515885,39.8923332961447
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310199057</name>
+  <description><![CDATA[<b>ID:</b>101310199057<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>MARTINEZ ALREZ<br><b>NUM:</b>11<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.5367471141879,39.891472511847
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310224910</name>
+  <description><![CDATA[<b>ID:</b>101310224910<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>ALBA<U+00D1>ILES<br><b>NUM:</b>7<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.523975597196,39.8898661203252
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310232736</name>
+  <description><![CDATA[<b>ID:</b>101310232736<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>ANTONIO CONCHA<br><b>NUM:</b>81<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53491233803391,39.8903897775662
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310015015</name>
+  <description><![CDATA[<b>ID:</b>101310015015<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>HERNAN CORTES<br><b>NUM:</b>12<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.5399062904429,39.8930707914839
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310231851</name>
+  <description><![CDATA[<b>ID:</b>101310231851<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>SAN ANDRES<br><b>NUM:</b>41<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54406190563242,39.8904526051037
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310001539</name>
+  <description><![CDATA[<b>ID:</b>101310001539<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>LUCHANA<br><b>NUM:</b>3<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54131087859412,39.8919308369386
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310037795</name>
+  <description><![CDATA[<b>ID:</b>101310037795<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>CID<br><b>NUM:</b>12<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54019125592168,39.8923616086014
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310047022</name>
+  <description><![CDATA[<b>ID:</b>101310047022<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>MARGALLO<br><b>NUM:</b>26<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53625760870165,39.8925185016276
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310064865</name>
+  <description><![CDATA[<b>ID:</b>101310064865<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>PADILLA<br><b>NUM:</b>44<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53879244411598,39.8924467033527
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310072091</name>
+  <description><![CDATA[<b>ID:</b>101310072091<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>HOSPITAL<br><b>NUM:</b>15<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54095915374188,39.8938341360366
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310077587</name>
+  <description><![CDATA[<b>ID:</b>101310077587<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>CAMINO CEMENTERIO<br><b>NUM:</b>9<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54169866895836,39.8976312221033
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310092099</name>
+  <description><![CDATA[<b>ID:</b>101310092099<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>MARGALLO<br><b>NUM:</b>2<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53757673068151,39.8927336770176
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310102615</name>
+  <description><![CDATA[<b>ID:</b>101310102615<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>JOSE MARIA PEREZ LOZANO<br><b>NUM:</b>18<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53812788289542,39.8898272471298
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310124922</name>
+  <description><![CDATA[<b>ID:</b>101310124922<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>URBANO GONZALEZ SERRANO<br><b>NUM:</b>52<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54380177043532,39.8915231985368
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310129119</name>
+  <description><![CDATA[<b>ID:</b>101310129119<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>RAMON Y CAJAL<br><b>NUM:</b>10<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54051464403557,39.8922916053733
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310132625</name>
+  <description><![CDATA[<b>ID:</b>101310132625<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>HERNAN CORTES<br><b>NUM:</b>22<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54005115953333,39.8937954768798
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310141231</name>
+  <description><![CDATA[<b>ID:</b>101310141231<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>RIO TORMES<br><b>NUM:</b>7<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54450517877092,39.8903411431293
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310149672</name>
+  <description><![CDATA[<b>ID:</b>101310149672<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>AVENIDA<br><b>DIRECCION:</b>CONSTITUCION<br><b>NUM:</b>2<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54291660641621,39.8935927283218
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310173874</name>
+  <description><![CDATA[<b>ID:</b>101310173874<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLEJON<br><b>DIRECCION:</b>FUENTENUEVA<br><b>NUM:</b>16<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53665949324096,39.8878122891059
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310251555</name>
+  <description><![CDATA[<b>ID:</b>101310251555<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>Desconocido<br><b>DIRECCION:</b>-997<br><b>NUM:</b>9<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>2]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-6.37085867,39.47621536
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310251612</name>
+  <description><![CDATA[<b>ID:</b>101310251612<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>GENERAL ARANDA<br><b>NUM:</b>5<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54059153157385,39.8896021935864
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310251864</name>
+  <description><![CDATA[<b>ID:</b>101310251864<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>DEPORTES<br><b>NUM:</b>39<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53929996212349,39.8880029606681
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310252013</name>
+  <description><![CDATA[<b>ID:</b>101310252013<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>PUERTO LAPICE<br><b>NUM:</b>3<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53691008573185,39.8881917679358
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310252137</name>
+  <description><![CDATA[<b>ID:</b>101310252137<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>PUERTO MADERO<br><b>NUM:</b>30<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53358466709864,39.8879523018573
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310252352</name>
+  <description><![CDATA[<b>ID:</b>101310252352<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>GOYA<br><b>NUM:</b>5<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54235640882115,39.8924218622791
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310252495</name>
+  <description><![CDATA[<b>ID:</b>101310252495<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>JOSE ESPRONCEDA<br><b>NUM:</b>2<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54213614956359,39.8928981711138
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310252684</name>
+  <description><![CDATA[<b>ID:</b>101310252684<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>AMAPOLA<br><b>NUM:</b>2<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53923222968359,39.8936756512104
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310252729</name>
+  <description><![CDATA[<b>ID:</b>101310252729<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>MARGALLO<br><b>NUM:</b>25<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.5359035707931,39.8924583765529
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310188828</name>
+  <description><![CDATA[<b>ID:</b>101310188828<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLEJON<br><b>DIRECCION:</b>FUENTENUEVA<br><b>NUM:</b>8<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53666286929592,39.8879866532615
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310191450</name>
+  <description><![CDATA[<b>ID:</b>101310191450<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>SAN FERNANDO<br><b>NUM:</b>17<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53752259329298,39.8922390615835
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310193286</name>
+  <description><![CDATA[<b>ID:</b>101310193286<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>PADILLA<br><b>NUM:</b>22<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.5390082157565,39.8925099814505
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310194417</name>
+  <description><![CDATA[<b>ID:</b>101310194417<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>COMANDANTE VAZQUEZ<br><b>NUM:</b>16<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54338292738015,39.8907313319854
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310221380</name>
+  <description><![CDATA[<b>ID:</b>101310221380<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>DEPORTES<br><b>NUM:</b>2<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54091275861686,39.8879756095868
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310235801</name>
+  <description><![CDATA[<b>ID:</b>101310235801<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>PASEO<br><b>DIRECCION:</b>ESTACION<br><b>NUM:</b>9<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54523156568416,39.8928495816429
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310244960</name>
+  <description><![CDATA[<b>ID:</b>101310244960<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>AZALEA<br><b>NUM:</b>8<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53661996713771,39.8959681418164
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310089122</name>
+  <description><![CDATA[<b>ID:</b>101310089122<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>RONDA SUR<br><b>NUM:</b>4<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54412950767062,39.8897008968789
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310136168</name>
+  <description><![CDATA[<b>ID:</b>101310136168<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>TRAVESIA<br><b>DIRECCION:</b>ISABEL LA CATOLICA<br><b>NUM:</b>3<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54060439187913,39.8943157706564
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310004869</name>
+  <description><![CDATA[<b>ID:</b>101310004869<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>ALBUERA<br><b>NUM:</b>5<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53907935123101,39.891218715971
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310071395</name>
+  <description><![CDATA[<b>ID:</b>101310071395<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>AVENIDA<br><b>DIRECCION:</b>ANGUSTIAS<br><b>NUM:</b>36<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.55246612321298,39.8924371786329
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310080000</name>
+  <description><![CDATA[<b>ID:</b>101310080000<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>PUERTO SOMOSIERRA<br><b>NUM:</b>8<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53579862440694,39.887986450914
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310085814</name>
+  <description><![CDATA[<b>ID:</b>101310085814<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>JAZMIN<br><b>NUM:</b>5<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53739984572627,39.8920309422742
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310094286</name>
+  <description><![CDATA[<b>ID:</b>101310094286<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>QUINTANA<br><b>NUM:</b>6<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53971724755286,39.8931645682903
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310106789</name>
+  <description><![CDATA[<b>ID:</b>101310106789<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>PUERTO ESQUINAZO<br><b>NUM:</b>6<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53544831958425,39.8891243424145
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310108386</name>
+  <description><![CDATA[<b>ID:</b>101310108386<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>QUINTANA<br><b>NUM:</b>1<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53988211846496,39.8932242185229
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310126476</name>
+  <description><![CDATA[<b>ID:</b>101310126476<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>AVENIDA<br><b>DIRECCION:</b>ANGUSTIAS<br><b>NUM:</b>36<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.55246612321298,39.8924371786329
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310141928</name>
+  <description><![CDATA[<b>ID:</b>101310141928<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>RIO EBRO<br><b>NUM:</b>10<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54561647192259,39.8906126898239
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310143761</name>
+  <description><![CDATA[<b>ID:</b>101310143761<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>CONDE DUQUE<br><b>NUM:</b>11<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53954622258004,39.8923451519073
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310147159</name>
+  <description><![CDATA[<b>ID:</b>101310147159<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>MARQUES DE SALAMANCA<br><b>NUM:</b>21<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53743036062258,39.8929836067081
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310167055</name>
+  <description><![CDATA[<b>ID:</b>101310167055<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>LA CANTERA<br><b>NUM:</b>2<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54153815795956,39.8876727233176
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310168808</name>
+  <description><![CDATA[<b>ID:</b>101310168808<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>TRAVESIA<br><b>DIRECCION:</b>AGUSTIN CARRE<U+00D1>O<br><b>NUM:</b>20<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54612992995226,39.8936768347182
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310173503</name>
+  <description><![CDATA[<b>ID:</b>101310173503<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>PLAZA<br><b>DIRECCION:</b>TALAVERILLA<br><b>NUM:</b>1<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53751921903671,39.8980997338157
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310173929</name>
+  <description><![CDATA[<b>ID:</b>101310173929<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>JAZMIN<br><b>NUM:</b>2<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53769779921402,39.8918965215073
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310174431</name>
+  <description><![CDATA[<b>ID:</b>101310174431<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>JAZMIN<br><b>NUM:</b>28<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53701616166649,39.8919167400655
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310176178</name>
+  <description><![CDATA[<b>ID:</b>101310176178<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CARRETERA<br><b>DIRECCION:</b>JARANDILLA<br><b>NUM:</b>13<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54434662289827,39.8973524772351
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310251745</name>
+  <description><![CDATA[<b>ID:</b>101310251745<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>ALBUERA<br><b>NUM:</b>1<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53908653501554,39.8911202420056
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310252358</name>
+  <description><![CDATA[<b>ID:</b>101310252358<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>REGIMIENTO ARGEL<br><b>NUM:</b>4<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.5421905963189,39.891829854764
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310252383</name>
+  <description><![CDATA[<b>ID:</b>101310252383<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>JUAN DE AUSTRIA<br><b>NUM:</b>6<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54587322836676,39.8938071275969
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310252492</name>
+  <description><![CDATA[<b>ID:</b>101310252492<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>PLAZA<br><b>DIRECCION:</b>ESPA<U+00D1>A<br><b>NUM:</b>2<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54059461444984,39.8917005520389
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310252751</name>
+  <description><![CDATA[<b>ID:</b>101310252751<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>MARQUES DE SALAMANCA<br><b>NUM:</b>4<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53805193155137,39.8925848886817
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310252902</name>
+  <description><![CDATA[<b>ID:</b>101310252902<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>FUENTE LOS CABREROS<br><b>NUM:</b>3<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.52581173582291,39.8909185348625
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310189715</name>
+  <description><![CDATA[<b>ID:</b>101310189715<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CARRETERA<br><b>DIRECCION:</b>JARANDILLA<br><b>NUM:</b>29<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54519825839287,39.8984387557441
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310213036</name>
+  <description><![CDATA[<b>ID:</b>101310213036<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>CALLE<br><b>DIRECCION:</b>MURILLO<br><b>NUM:</b>12<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.53650735762841,39.8913050409949
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>101310217507</name>
+  <description><![CDATA[<b>ID:</b>101310217507<br><b>LOCALIZACION:</b><br><b>TIPO_VIA:</b>TRAVESIA<br><b>DIRECCION:</b>MARINA<br><b>NUM:</b>4<br><b>CP:</b>10300<br><b>COD_MUNI:</b>1100003617<br><b>MUNICIPIO:</b>Navalmoral de la Mata<br><b>PROVINCIA:</b>C<U+00E1>ceres<br><b>geo_ciber_score:</b>3]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+-5.54229782248649,39.889716772611
+    </coordinates>
+  </Point>
+</Placemark>
+</Document>
+</kml>
